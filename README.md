@@ -6,7 +6,7 @@ First, We scrapped books data from the website like Book Name, Author, Category,
 
 Second, We cleaned the data from English words, numbers, and tags
 
-Third, We implemented an autocorrect application to correct scrapped words        
+Third, We used an autocorrect Library "Hunspell-ar" to correct mismatcched words        
 
 Fourth, we stemmed and lemmatized the data using Faras, We tokenized, removed  the stop words, lemmatized and stemmed our data
 
