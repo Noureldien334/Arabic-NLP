@@ -1,4 +1,4 @@
-# Selected-3-Project
+# Arabic NLP
 
 In this project we used data scrapped from https://www.arab-books.com/
 
